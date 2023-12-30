@@ -1,3 +1,5 @@
+Forked Version of Eaglercraft with original text below. 
+
 |||NOW UPDATED TO 1.8!!!!!
 
 online version is https://svaaps.github.io/eaglercrafthtml/
