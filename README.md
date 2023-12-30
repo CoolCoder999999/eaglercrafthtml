@@ -1,3 +1,5 @@
+Runs on Nexlify: https://eaglercraft-coolcoder999999.netlify.app/
+
 Forked Version of Eaglercraft with original text below. 
 
 |||NOW UPDATED TO 1.8!!!!!
